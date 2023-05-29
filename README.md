@@ -61,3 +61,12 @@ For example, the forecasted number of opened applications was off by less than 7
 
 3.	Predictions at the individual channel level we much less accurate than at the aggregate level.  For the purposes of this forecast, that was fine, but this represents an area to improve in future iterations as improvement at this level will help to tighten up the aggregated forecast and better predict marketing costs since the pay structure for each channel varies, and thus a more accurate forecast at the channel level will help us to better anticipate cost per acquisition (CPA).  
 
+<h2>Languages Used</h2>
+
+- <b>SQL</b> 
+- <b>Python</b>
+
+<h2>Models Used </h2>
+
+- <b>Deep Learning Time Series</b>
+
